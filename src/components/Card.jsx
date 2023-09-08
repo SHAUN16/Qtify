@@ -6,7 +6,7 @@ const Card = () => {
         <div className="card">
             <img src={cardImage} alt="image"/>
             <div className="container">
-                <div className="card-btn">!00 Follows</div>
+                <div className="card-btn">100 Follows</div>
             </div>
             <div className="card-title">
                 New Bollywood
